@@ -11,9 +11,13 @@
     <a href="https://github.com/Hamagistral/Potato-Disease-Classification/issues" target="_blank">Request Feature</a>
 </div>
 
+## Problem Statement for Potato Leaf Disease Prediction
+
+Farmers who grow potatoes suffer from serious financial standpoint losses each year which cause several diseases that affect potato plants. The diseases Early Blight and Late Blight are the most frequent. Early blight is caused by fungus and late blight is caused by specific micro-organisms and if farmers detect this disease early and apply appropriate treatment then it can save a lot of waste and prevent economical loss. The treatments for early blight and late blight are a little different so it’s important that you accurately identify what kind of disease is there in that potato plant. 
+
 ## 🎯 Goal 
 
-The goal of this project is to help farmers diagnose their crops. This project uses image classification using CNN architecture with Tensorflow to detect potato plant diseases, deployed to GCP and used in a web frontend app made with React.
+Develop an end-to-end Deep Learning project in the field of agriculture. Create a simple Image Classification Model that will categorize Potato Leaf Disease using a simple and classic Convolutional Neural Network Architecture. We will start with collecting the data, then model building, and finally, we’ll use Streamlit to build a web-based application 
 
 ## 💾 Dataset Used  
 
