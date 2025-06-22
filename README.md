@@ -5,7 +5,7 @@
     </ul>
   </div>
   
-  <p>Deep Learning Project Using Tensorflow, GCP & React </p>
+  <p>Deep Learning Project Using Tensorflow </p>
     <a href="https://www.kaggle.com/datasets/arjuntejaswi/plant-village" target="_blank">Data</a>
     ·
     <a href="https://github.com/Hamagistral/Potato-Disease-Classification/issues" target="_blank">Request Feature</a>
@@ -37,9 +37,6 @@ More info about dataset can be found here :
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Installation :
 
