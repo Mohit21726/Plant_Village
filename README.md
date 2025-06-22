@@ -27,6 +27,54 @@ More info about dataset can be found here :
 
 - Kaggle - https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
+
+<b>Folder Structure : </b>
+```
+                    Potato Leaf Dataset       --> main folder
+                      ----| train      
+                          ----| Potato_Healthy
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Early_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Late_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+
+                      ----| test      
+                          ----| Potato_Healthy
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Early_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Late_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              
+                      ----| valid      
+                          ----| Potato_Healthy
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Early_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                          ----| Potato_Late_Blight
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+```
+
+
 ## 📝 Project Architecture
 
 
