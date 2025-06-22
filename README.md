@@ -71,7 +71,6 @@ More info about dataset can be found here :
 
 `npm run start`
 
-https://user-images.githubusercontent.com/63307564/145527457-cd9f8844-fe5d-47d2-ba18-759bdc667489.mp4
 
 ## 📨 Contact Me
 
